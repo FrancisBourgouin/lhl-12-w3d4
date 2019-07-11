@@ -74,9 +74,9 @@ During the lecture we talked about the WordPress REST API, and looked at the imp
 
 ###### Interesting links 
 
-About REST and naming convention : https://restfulapi.net/resource-naming/
-Express modular routing (end of document) : http://expressjs.com/en/guide/routing.html#routing
-Method override : https://www.npmjs.com/package/method-override
-Express middleware : https://expressjs.com/en/guide/using-middleware.html
-JSON APIs responses : https://jsonapi.org/examples
-WordPress REST API : https://developer.wordpress.org/rest-api/
+- About REST and naming convention : https://restfulapi.net/resource-naming/
+- Express modular routing (end of document) : http://expressjs.com/en/guide/routing.html#routing
+- Method override : https://www.npmjs.com/package/method-override
+- Express middleware : https://expressjs.com/en/guide/using-middleware.html
+- JSON APIs responses : https://jsonapi.org/examples
+- WordPress REST API : https://developer.wordpress.org/rest-api/
